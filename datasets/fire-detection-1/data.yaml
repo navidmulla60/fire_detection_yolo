@@ -1,0 +1,12 @@
+names:
+- fire
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: fire-detection-qggmx
+  url: https://universe.roboflow.com/navid-a-m-mz33r/fire-detection-qggmx/dataset/1
+  version: 1
+  workspace: navid-a-m-mz33r
+test: ../test/images
+train: ../train/images
+val: ../valid/images
